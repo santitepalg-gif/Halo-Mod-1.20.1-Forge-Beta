@@ -1,0 +1,15 @@
+{
+ "itemGroup.halomobs": "Halo Mobs",
+ "entity.halomobs.elite": "Elite",
+ "item.halomobs.elite_spawn_egg": "Huevo generador de Elite",
+ "entity.halomobs.grunt": "Grunt",
+ "item.halomobs.grunt_spawn_egg": "Huevo generador de Grunt",
+ "entity.halomobs.jackal": "Jackal",
+ "item.halomobs.jackal_spawn_egg": "Huevo generador de Jackal",
+ "entity.halomobs.hunter": "Hunter",
+ "item.halomobs.hunter_spawn_egg": "Huevo generador de Hunter",
+ "entity.halomobs.brute_capitan": "Brute Capitán",
+ "item.halomobs.brute_capitan_spawn_egg": "Huevo generador de Brute Capitán",
+ "entity.halomobs.brute_cacique": "Brute Cacique",
+ "item.halomobs.brute_cacique_spawn_egg": "Huevo generador de Brute Cacique"
+}
